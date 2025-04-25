@@ -30,6 +30,6 @@ npm run build
 ```
 
 ## Submission
-- Live preview: [localhost:5173](https://codingchallange-oaz5lth8y-hassan-mohamed-27s-projects.vercel.app/)
+- Live preview: [localhost:5173](https://codingchallange-git-main-hassan-mohamed-27s-projects.vercel.app/)
 - Loom video walkthrough included in submission email
 - MIT Licensed
