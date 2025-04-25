@@ -25,20 +25,4 @@ html {
   .animate-slide-up {
     animation: slideUp 0.8s ease-out both;
   }
-
-  /* Hover animations */
-  .hover-scale {
-    transition: transform 0.3s ease-in-out;
-  }
-  .hover-scale:hover {
-    transform: scale(1.05);
-  }
-
-  .hover-shadow {
-    transition: box-shadow 0.3s ease-in-out;
-  }
-  .hover-shadow:hover {
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-  }
-  .img-shadow {box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);}
 }
